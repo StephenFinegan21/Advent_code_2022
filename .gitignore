@@ -1,2 +1,2 @@
-one/*.js
-two/*.js
+**/one/*.js
+**/two/*.js
